@@ -51,4 +51,4 @@ Für dieses Projekt sind keine Build-Schritte erforderlich.
 3. Verwende die Weboberfläche, um Audio aufzunehmen und zu verarbeiten.
 
 # Demo
-!image
+![image](screenshot.png)
